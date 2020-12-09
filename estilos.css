@@ -3,7 +3,7 @@
     padding: 0;
 }
 .navbar{
-    background:linear-gradient(rgb(206, 233, 52),rgb(107, 220, 240),gray) !important; 
+    background:linear-gradient(#34c8e9,rgb(107, 240, 162),gray) !important; 
 }
 header{
     background-color: green !important;
@@ -22,7 +22,10 @@ header{
 }
 footer{
     margin-top: 0;
-    background: linear-gradient(rgb(206, 233, 52),rgb(107, 220, 240),gray) !important;
+    background: linear-gradient(#34c8e9,rgb(107, 240, 162),gray) !important;
+}
+.btn{
+    background: linear-gradient(rgb(52, 161, 233),rgb(107, 220, 240),gray) !important;
 }
 
 .parrafo1{

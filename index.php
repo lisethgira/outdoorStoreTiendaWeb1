@@ -21,7 +21,7 @@
                             <a class="nav-link" href="administracion.php">Administración</a>
                         </li>
                         <li class="nav-item active">
-                            <a class="nav-link" href="listadoProductos.php">Catálogo de Productos</a>
+                            <a class="nav-link" href="listarProductos.php">Catálogo de Productos</a>
                         </li>
                     </ul>
                 </div>
