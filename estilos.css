@@ -1,0 +1,86 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.navbar{
+    background:linear-gradient(rgb(206, 233, 52),rgb(107, 220, 240),gray) !important; 
+}
+header{
+    background-color: green !important;
+}
+#header-logo{
+    width:64px;
+    height:64px;
+}
+#header-msg{
+    font-size: 25px;
+    color: white !important;
+}
+.carrousel{
+    margin-bottom:0;
+    padding: 0;
+}
+footer{
+    margin-top: 0;
+    background: linear-gradient(rgb(206, 233, 52),rgb(107, 220, 240),gray) !important;
+}
+
+.parrafo1{
+    font-size: 20px;
+    color: grey;
+    margin-left: 25px;
+    margin-right: 25px;
+}
+
+.footer{
+    font-size: 15px;
+}
+
+.imagen{
+    height: 390px;
+}
+
+.negritaycolor{
+    font-weight: bold;
+    color: gray;
+    font-size: 25px;
+}
+
+.video{
+    width: 1000px;
+    height: 400px;
+    position: left;
+    
+}
+
+.parrafo{
+    font-style: italic;
+    color: burlywood;
+    font-family: 'Courier New', Courier, monospace;
+
+    
+}
+
+.negrita{
+    font-weight: bold;
+}
+
+.parrafonegrita{
+    font-style: italic;
+    color: burlywood;
+    font-family: Courier New;
+    font-weight: bold;
+}
+
+.parrafo2{
+    font-style: italic;
+    color: brown;
+    font-family: Cambria;
+}
+
+.imagenpag2{
+    background-image: url(img/imagenGrupopag2.jpg);
+    background-position: top;
+    width: auto;
+    height: 300px;
+}
