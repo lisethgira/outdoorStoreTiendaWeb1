@@ -49,7 +49,7 @@ public function agregarProductos($consultaSQL){
     }else{
         echo("Error agregando el producto");
     }
-    Header("location:formularioProducto.php");
+    Header("location:formularioProductos.php");
 }
 
 public function consultarProductos($consultaSQL){
